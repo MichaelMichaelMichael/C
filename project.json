@@ -1,0 +1,10 @@
+{
+    "name": "C",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "C.script",
+    "author": "MichaelMichaelMichael",
+    "minimum_firmware_version": 42
+}
