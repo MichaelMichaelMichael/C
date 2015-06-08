@@ -1,10 +1,10 @@
-int varible = "hello"
-int varible2 = 1
+int varible1 = 3
+int varible2 = 10
 
 
 
 void control{
-    if varible
+    if varible2 + varible1 = 12
     
     
     
@@ -13,7 +13,6 @@ void control{
     
     
     
-an
     
     
     
